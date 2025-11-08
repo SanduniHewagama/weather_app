@@ -17,6 +17,11 @@ A **Flutter-based Android app** that provides **real-time weather updates** usin
 - ✨ Clean and simple **user-friendly interface**
 
 ---
+## 🎬 Demo Video
+
+🎬 [Watch the demo video](https://drive.google.com/file/d/1u0j4eGZX383dZX6H8Ke8TmyU_HMEFo5D/view?usp=drive_link)
+
+---
 
 ## 🛠️ Tech Stack
 
