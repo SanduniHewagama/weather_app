@@ -23,12 +23,17 @@ A **Flutter-based Android app** that provides **real-time weather updates** usin
 - **Flutter** – for building cross-platform mobile apps  
 - **Dart** – programming language  
 - **Open-Meteo API** – for weather data  
-
 ---
-
+## 📸 Screenshots
+---
+<img width="406" height="945" alt="Figure 1" src="https://github.com/user-attachments/assets/bf5d1662-2a21-4dd9-997a-3e734ce8d292" /> <img width="409" height="957" alt="Figure 2" src="https://github.com/user-attachments/assets/1619fc03-bb98-486d-a29f-f503262d8fff" />
+---
 ## 🏁 Getting Started
-
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/weather-dashboard.git
    
+2. **Navigate to the project folder**
+```bash
+cd weather-dashboard
+
